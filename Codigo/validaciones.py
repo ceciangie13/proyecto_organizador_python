@@ -1,8 +1,8 @@
-def disponibilidad_personas():
+def disponibilidad_por_dias(lista_personal, lista_tiempos):
     return
 
-def actividades_por_dia():
+def actividades_por_dia(lista_actividades, lista_personal, lista_recursos):
     return
 
-def dispoibilidad_recursos():
+def disponibilidad_tiempos(lista_tiempos):
     return
